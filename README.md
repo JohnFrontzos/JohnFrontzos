@@ -19,7 +19,6 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/io
 
 ## Languages and Tools 🛠️
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin&logoColor=#B125EA&labelColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=#B125EA&labelColor=ffffff)
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=#a4c639&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
@@ -31,13 +30,6 @@ Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/io
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
-
----
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <!--
 **JohnFrontzos/JohnFrontzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
